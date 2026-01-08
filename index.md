@@ -2,5 +2,17 @@
 ## Gives you knowledge about all Git and GitHub 
 ###### Good to know more about version control system
 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
